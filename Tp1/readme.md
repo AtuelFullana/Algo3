@@ -1,3 +1,8 @@
+## Pre-requisitos
+
+- Pharo version 10
+- [Mutalk](https://github.com/pharo-contributions/mutalk)
+
 ## Objetivo
 Este es un trabajo práctico individual que tiene como objetivo aplicar los conceptos del paradigma de la orientación a objetos vistos hasta ahora en el curso mediante la resolución de un problema con Pharo.
 
@@ -20,22 +25,22 @@ Deberán entregarse:
 - documentación completa del diseño de clases incluyendo diagramas UML de clases y secuencia (cantidades variables acordes al diseño presentado).
 Se considerarán entregas válidas a aquellas que contengan las partes anteriores. Las que no lo tengan alguna de ellas no serán tenidas en cuenta y se priorizará la corrección de aquellas que estén completas.
 
-## Pre-requisitos
-
-- Pharo version 10
-- [Mutalk](https://github.com/pharo-contributions/mutalk)
 
 ## Informe
 El informe deberá tener una carátula que incluya los nombres y apellidos del alumno, su número de padron y dirección de correo electrónico. Además, deberá tener las siguientes secciones:
 
-1. Supuestos
-   Deberá contener explicaciones de cada uno de los supuestos que el alumno haya tenido que adoptar a partir de situaciones que no estén contempladas en la especificación.
-2. Detalles de implementación
+1. Supuestos.
+
+      Deberá contener explicaciones de cada uno de los supuestos que el alumno haya tenido que adoptar a partir de situaciones que no estén contempladas en la especificación.
+2. Detalles de implementación.
    - Explicar que pilares del paradigma empleó para modelar sus clases; describiendo ventajas, desventajas (de los pilares) y las clases donde lo aplicó.
    - Explicar porque utilizó herencia o delegación; describiendo ventajas, desventajas y las clases donde las aplicó.
-3. Excepciones
-   Explicación de cada una de las excepciones creadas y con qué fin fueron creadas.
-4. Diagramas de clases
-   Uno o varios diagramas de clases mostrando las relaciones estáticas entre las clases.  Puede agregarse todo el texto necesario para aclarar y explicar su diseño. Recuerden que la idea de todo el documento es que quede documentado y entendible cómo está implementada la solución. Todos los diagramas tienen que estar embebidos como imágenes en el informe de manera tal que entren en el ancho de una hoja A4 sin tener que rotarla. No se aceptarán diagramas en archivos sueltos.
-5. Diagramas de secuencia
-   Mostrar las secuencias interesantes que hayan implementado. Pueden agregar texto para explicar si algo no queda claro.
+3. Excepciones.
+   
+      Explicación de cada una de las excepciones creadas y con qué fin fueron creadas.
+4. Diagramas de clases.
+
+      Uno o varios diagramas de clases mostrando las relaciones estáticas entre las clases.  Puede agregarse todo el texto necesario para aclarar y explicar su diseño. Recuerden que la idea de todo el documento es que quede documentado y entendible cómo está implementada la solución. Todos los diagramas tienen que estar embebidos como imágenes en el informe de manera tal que entren en el ancho de una hoja A4 sin tener que rotarla. No se aceptarán diagramas en archivos sueltos.
+5. Diagramas de secuencia.
+
+      Mostrar las secuencias interesantes que hayan implementado. Pueden agregar texto para explicar si algo no queda claro.
