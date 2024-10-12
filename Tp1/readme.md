@@ -32,7 +32,7 @@ Supuestos
 1. Deberá contener explicaciones de cada uno de los supuestos que el alumno haya tenido que adoptar a partir de situaciones que no estén contempladas en la especificación.
 2. Detalles de implementación
    - Explicar que pilares del paradigma empleó para modelar sus clases; describiendo ventajas, desventajas (de los pilares) y las clases donde lo aplicó.
-  - Explicar porque utilizó herencia o delegación; describiendo ventajas, desventajas y las clases donde las aplicó.
+   - Explicar porque utilizó herencia o delegación; describiendo ventajas, desventajas y las clases donde las aplicó.
 3. Excepciones
 Explicación de cada una de las excepciones creadas y con qué fin fueron creadas.
 4. Diagramas de clases
