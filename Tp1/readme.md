@@ -28,8 +28,8 @@ Se considerarán entregas válidas a aquellas que contengan las partes anteriore
 ## Informe
 El informe deberá tener una carátula que incluya los nombres y apellidos del alumno, su número de padron y dirección de correo electrónico. Además, deberá tener las siguientes secciones:
 
-Supuestos
-1. Deberá contener explicaciones de cada uno de los supuestos que el alumno haya tenido que adoptar a partir de situaciones que no estén contempladas en la especificación.
+1. Supuestos
+Deberá contener explicaciones de cada uno de los supuestos que el alumno haya tenido que adoptar a partir de situaciones que no estén contempladas en la especificación.
 2. Detalles de implementación
    - Explicar que pilares del paradigma empleó para modelar sus clases; describiendo ventajas, desventajas (de los pilares) y las clases donde lo aplicó.
    - Explicar porque utilizó herencia o delegación; describiendo ventajas, desventajas y las clases donde las aplicó.
