@@ -6,6 +6,9 @@
 ## Objetivo
 Este es un trabajo práctico individual que tiene como objetivo aplicar los conceptos del paradigma de la orientación a objetos vistos hasta ahora en el curso mediante la resolución de un problema con Pharo.
 
+## Enunciado
+El enunciado simplemente que el codigo pase estas [pruebas] (https://github.com/fiuba/algo3_test_quality)
+
 ## Consigna
 Se deberá desarrollar un modelo de clases utilizando la metodología TDD. Las especificaciones son un 
 archivo de pruebas SUnit (.st) adjunto a este enunciado y están dadas en forma de pruebas de casos de uso.
