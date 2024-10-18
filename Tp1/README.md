@@ -30,7 +30,7 @@ Se considerarán entregas válidas a aquellas que contengan las partes anteriore
 
 
 ## Informe
-El informe deberá tener una carátula que incluya los nombres y apellidos del alumno, su número de padron y dirección de correo electrónico. Además, deberá tener las siguientes secciones:
+El [informe](https://github.com/AtuelFullana/Algo3/tree/main/Tp1) deberá tener una carátula que incluya los nombres y apellidos del alumno, su número de padron y dirección de correo electrónico. Además, deberá tener las siguientes secciones:
 
 1. Supuestos.
 
