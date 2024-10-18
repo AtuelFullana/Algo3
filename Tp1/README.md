@@ -30,7 +30,7 @@ Se considerarán entregas válidas a aquellas que contengan las partes anteriore
 
 
 ## Informe
-El [informe](Tp1/TP1-110247.pdf) deberá tener una carátula que incluya los nombres y apellidos del alumno, su número de padron y dirección de correo electrónico. Además, deberá tener las siguientes secciones:
+El [informe](TP1-110247.pdf) deberá tener una carátula que incluya los nombres y apellidos del alumno, su número de padron y dirección de correo electrónico. Además, deberá tener las siguientes secciones:
 
 1. Supuestos.
 
