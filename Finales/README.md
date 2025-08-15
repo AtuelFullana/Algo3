@@ -1,17 +1,19 @@
 Hay 4 tipos de finales
-- Multiplechoise (20 preguntas, necesitas 13 correctas)
-    Temas:
-    Lecturas
-    Patrones de diseño (La banda de los 4, state, strategy, template)
-    SOLID
-    MVC
-    Usabilidad
-    Delegación
-    Reutilizacion 
-    Abstracción
-    Actores en diagrama de secuencia
-    Tipo de flecha en diagrama de clases
-Lecturas
-- Oral
-- Preguntas de desarrollo
-- Modelar
+1. Supuestos.Deberá contener explicaciones de cada uno de los supuestos que el alumno haya tenido que adoptar a partir de situaciones que no estén contempladas en la especificación.
+1. Multiplechoise (20 preguntas, necesitas 13 correctas)
+
+      Temas:
+       Lecturas
+       Patrones de diseño (La banda de los 4, state, strategy, template)
+       SOLID
+       MVC
+       Usabilidad
+       Delegación
+       Reutilizacion 
+       Abstracción
+       Actores en diagrama de secuencia
+       Tipo de flecha en diagrama de clases
+       Lecturas
+2. Oral
+3. Preguntas de desarrollo
+4. Modelar
